@@ -1,0 +1,15 @@
+#li1{
+    list-style: none;
+    display:flex;
+}
+body{
+    text-align: center;
+    justify-content: center;
+}
+#container{
+    
+    justify-content: center;
+   align-items: center;
+   align-content: center;
+   
+}
